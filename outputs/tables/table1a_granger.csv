@@ -1,0 +1,5 @@
+,inflation,inflation,inflation,unemployment,unemployment,unemployment,fedfunds,fedfunds,fedfunds
+,Replicated,Published,Diff,Replicated,Published,Diff,Replicated,Published,Diff
+inflation,,0.0,,0.29,0.31,-0.02,0.0,0.0,0.0
+unemployment,0.01,0.02,-0.01,,0.0,,0.0,0.0,0.0
+fedfunds,0.65,0.27,0.38,0.0,0.01,-0.01,,0.0,
